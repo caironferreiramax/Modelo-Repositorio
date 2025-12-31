@@ -57,6 +57,11 @@ a:hover {
     flex-grow: 3;
 }
 
+article > ul > li {
+    list-style-type: none;
+    padding: 5px;
+}
+
 .sidebar {
     padding: 20px;
     background-color: rgb(194, 204, 216);
