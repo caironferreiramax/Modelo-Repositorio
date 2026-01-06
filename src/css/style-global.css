@@ -42,9 +42,23 @@ a:hover {
     padding: 8px;
 }
 
+/* Parte principal da página*/
+
 .container {
     display: flex;
     padding-top: 15px;
+}
+
+.main-content {
+    padding: 20px;
+    background-color: #dfe8f0;
+    flex-grow: 3;
+}
+
+.sidebar {
+    padding: 20px;
+    background-color: rgb(194, 204, 216);
+    flex-grow: 1;
 }
 
 ul > li {
