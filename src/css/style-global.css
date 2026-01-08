@@ -39,8 +39,8 @@ a:hover {
     color: #476786;
     font-style: bold;
     padding: 4  px;
-    transform: scale(1.2);
-    transition: 0.3s;
+    transform: scale(1.0);
+    transition: 0.2s;
 }
 
 /* Parte principal da página-Meio*/
