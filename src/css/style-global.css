@@ -32,15 +32,15 @@ nav > a {
     text-decoration: none;
     color: white;
     margin-right: 20px;
+    transform: scale(1.0);
+    transition: 0.2s;
 }
 
 a:hover {
     background-color: white;
     color: #476786;
     font-style: bold;
-    padding: 4  px;
-    transform: scale(1.0);
-    transition: 0.2s;
+    padding: 2px;
 }
 
 /* Parte principal da página-Meio*/
