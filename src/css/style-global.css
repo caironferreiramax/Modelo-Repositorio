@@ -55,6 +55,19 @@ a:hover {
     flex-grow: 3;
 }
 
+.main-content > article > p, li {
+    margin: 6px;
+    word-spacing: 2px;
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+    margin: 10px 5px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgb(0,0,0,0.1); 
+}
+
 .sidebar {
     padding: 20px;
     background-color: rgb(194, 204, 216);
